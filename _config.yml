@@ -1,0 +1,58 @@
+---
+
+### site serving configuration ###
+
+port: 8080
+host: 0.0.0.0
+safe: false
+
+exclude:
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - Makefile
+    - Dockerfile
+    - vendor
+    - CNAME
+    - .gitignore
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+source: "./docs"
+
+# site settings
+title: "CITS4407 Open Source Tools and Scripting"
+description: "CITS4407 Open Source Tools and Scripting unit @uwa"
+#url: "https://cits4407.github.io/"
+repository: "cits4407/cits4407.github.io"
+
+# other site config
+permalink: /:title
+timezone: "Australia/Perth"
+markdown: kramdown
+#kramdown:
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
+highlight: pygments
+
+## content structure
+include:
+  - "_pages"
+  - "assets/css"
+
+collections:
+   pages:
+     output: true
+     permalink: /:path/
+
+#plugins:
+#  - jekyll-include-cache
+#  - jekyll-feed
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
+
+## used in /includes/header.html for html-settings
+language: "en"
+

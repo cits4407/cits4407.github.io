@@ -1,0 +1,100 @@
+
+
+
+weeks:
+
+  - id: x
+    weekNum: 1
+    date: "25 Feb"
+    lecture: |
+      Introduction
+    reading: ''
+    assessment: ''
+  - id: x
+    weekNum: 2
+    date: "4 Mar"
+    lecture: "no class -- Labour Day (University Holiday)"
+    reading: ''
+    assessment: ''
+  - id: x
+    weekNum: 3
+    date: "11 Mar"
+    lecture: "File systems"
+    reading: |
+      - [The Art of Unix Programming, Chapter 1. Philosophy](http://www.catb.org/esr/writings/taoup/html/philosophychapter.html).
+      -  [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) (an appendix to *Learn Python the Hard Way*).
+      - Shotts, chaps 4 ("Manipulating Files and Directories") and 12 ("A Gentle Introduction to vi")
+    assessment: ''
+  - id: x
+    weekNum: 4
+    date: "18 Mar"
+    lecture: |
+      Pipelines and redirection
+    reading: |
+      - Shotts, chaps 6 ("Redirection") and 10 ("Processes")
+      - [Perth daily weather observations](http://www.bom.gov.au/climate/dwo/IDCJDW6111.latest.shtml)
+      [FuelWatch Historical Data](http://www.fuelwatch.wa.gov.au/fuelwatch/pages/public/historicalFileDownloadRetail.jspx)
+    assessment: 'Quiz no. 1'
+  - id: x
+    weekNum: 5
+    date: "25 Mar"
+    lecture: "Shell scripts"
+    reading: |
+      Shotts, chaps 20 ("Text Processing"), 24-27
+    assessment: ''
+  - id: x
+    weekNum: 6
+    date: "1 Apr"
+    lecture: "Control structures"
+    reading: |
+      Shotts, chaps 27-33 (flow control), 34 ("Strings and Numbers") 
+    assessment: ''
+  - id: x
+    weekNum: 7
+    date: "8 Apr"
+    lecture: "Regular expressions and text manipulation"
+    reading: |
+      *TBA*, but take a look at\: Shotts, chaps 19 ("Regular Expressions"), 20 ("Text Processing")
+    assessment: ""
+  - id: x
+    weekNum: 8
+    date: "15 Apr"
+    lecture: "Network tools, file and version control"
+    reading: |
+      *TBA*, but take a look at\: Shotts, chaps 16 ("Networking"), 18 ("Arching and Backup"), and Eric Sink, "Version Control by Example" (at <https://ericsink.com/vcbe/index.html>), chap 2
+    assessment: ''
+  - id: x
+    weekNum: null
+    date: "22 Apr"
+    lecture: "*no class -- study break*"
+    reading: ''
+    assessment: 'Quiz no. 2'
+  - id: x
+    weekNum: 9
+    date: "29 Apr"
+    lecture: "Visualisation"
+    reading: |
+      *TBA*, but take a look at the GnuPlot demos at <http://gnuplot.sourceforge.net/demo/>
+    assessment: ''
+  - id: x
+    weekNum: 10
+    date: "6 May"
+    lecture: "Build automation"
+    reading: |
+      None
+    assessment: ''
+  - id: x
+    weekNum: 11
+    date: "13 May"
+    lecture: "Advanced file topics"
+    reading: |
+      *TBA*
+    assessment: 'Project work due'
+  - id: x
+    weekNum: 12
+    date: "20 May"
+    lecture: "Reflection & revision"
+    reading: |
+      The Art of Unix Programming, chap 5 ("The Importance of Being Textual")
+    assessment: ''
+

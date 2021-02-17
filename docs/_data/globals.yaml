@@ -4,7 +4,17 @@ unitcode: "CITS4407"
 unitname: "CITS4407 Open Source Tools and Scripting"
 citscode: "4407"
 q1marks:  10
+q1date:   "week 3"
 a1marks:  20
+a1date:   "week 7"
 a2marks:  20
+a2date:   "week 12"
 exammarks: 50
+assessment: |-
+  The assessment for Open Source Tools and Scripting consists of a quiz,
+  two assignments, and a final examination.
+submission: >-
+  All programming work is submitted online: you will be using
+  <a href="https://secure.csse.uwa.edu.au/run/cssubmit"
+  target="_blank">cssubmit</a> to submit your work.
 ---

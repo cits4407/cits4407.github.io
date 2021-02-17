@@ -1,100 +1,134 @@
 
+# Can't use Liquid templates in data.
+# But see solution at https://dgopstein.github.io/articles/jekyll-liquid-data/
 
+# Teaching weeks taken from
+# https://ipoint.uwa.edu.au/app/answers/detail/a_id/1241/~/2021-undergraduate-dates-and-teaching-weeks
 
 weeks:
 
-  - id: x
-    weekNum: 1
-    date: "25 Feb"
+  - weekNum: 1
+    date: "22 Feb"
     lecture: |
-      Introduction
-    reading: ''
-    assessment: ''
-  - id: x
-    weekNum: 2
-    date: "4 Mar"
-    lecture: "no class -- Labour Day (University Holiday)"
-    reading: ''
-    assessment: ''
-  - id: x
-    weekNum: 3
-    date: "11 Mar"
-    lecture: "File systems"
+      Introduction; the Linux shell and environment
+    workshop: '*No labs in week 1*'
     reading: |
-      - [The Art of Unix Programming, Chapter 1. Philosophy](http://www.catb.org/esr/writings/taoup/html/philosophychapter.html).
-      -  [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) (an appendix to *Learn Python the Hard Way*).
-      - Shotts, chaps 4 ("Manipulating Files and Directories") and 12 ("A Gentle Introduction to vi")
-    assessment: ''
-  - id: x
-    weekNum: 4
-    date: "18 Mar"
-    lecture: |
-      Pipelines and redirection
-    reading: |
-      - Shotts, chaps 6 ("Redirection") and 10 ("Processes")
-      - [Perth daily weather observations](http://www.bom.gov.au/climate/dwo/IDCJDW6111.latest.shtml)
-      [FuelWatch Historical Data](http://www.fuelwatch.wa.gov.au/fuelwatch/pages/public/historicalFileDownloadRetail.jspx)
-    assessment: 'Quiz no. 1'
-  - id: x
-    weekNum: 5
-    date: "25 Mar"
-    lecture: "Shell scripts"
-    reading: |
-      Shotts, chaps 20 ("Text Processing"), 24-27
-    assessment: ''
-  - id: x
-    weekNum: 6
-    date: "1 Apr"
-    lecture: "Control structures"
-    reading: |
-      Shotts, chaps 27-33 (flow control), 34 ("Strings and Numbers") 
-    assessment: ''
-  - id: x
-    weekNum: 7
-    date: "8 Apr"
-    lecture: "Regular expressions and text manipulation"
-    reading: |
-      *TBA*, but take a look at\: Shotts, chaps 19 ("Regular Expressions"), 20 ("Text Processing")
-    assessment: ""
-  - id: x
-    weekNum: 8
-    date: "15 Apr"
-    lecture: "Network tools, file and version control"
-    reading: |
-      *TBA*, but take a look at\: Shotts, chaps 16 ("Networking"), 18 ("Arching and Backup"), and Eric Sink, "Version Control by Example" (at <https://ericsink.com/vcbe/index.html>), chap 2
-    assessment: ''
-  - id: x
-    weekNum: null
-    date: "22 Apr"
-    lecture: "*no class -- study break*"
-    reading: ''
-    assessment: 'Quiz no. 2'
-  - id: x
-    weekNum: 9
-    date: "29 Apr"
-    lecture: "Visualisation"
-    reading: |
-      *TBA*, but take a look at the GnuPlot demos at <http://gnuplot.sourceforge.net/demo/>
-    assessment: ''
-  - id: x
-    weekNum: 10
-    date: "6 May"
-    lecture: "Build automation"
-    reading: |
-      None
-    assessment: ''
-  - id: x
-    weekNum: 11
-    date: "13 May"
-    lecture: "Advanced file topics"
-    reading: |
-      *TBA*
-    assessment: 'Project work due'
-  - id: x
-    weekNum: 12
-    date: "20 May"
-    lecture: "Reflection & revision"
-    reading: |
-      The Art of Unix Programming, chap 5 ("The Importance of Being Textual")
+      - *The Art of Unix Programming*, [chap 1 ("Philosophy")](http://www.catb.org/esr/writings/taoup/html/philosophychapter.html)
+      - [Command Line Crash Course](https://learnpythonthehardway.org/book/appendixa.html) (an appendix to *Learn Python the Hard Way*)
+      - Shotts, chaps 1--5
     assessment: ''
 
+  - weekNum: 2
+    date: "1 Mar"
+    lecture: "Version control; pipelines and redirection"
+    workshop: 'Linux shell and environment'
+    reading: |
+      - Shotts, chaps 6 ("Redirection"), 7 ("Seeing the World as the Shell Sees It"), and 10 ("Processes")
+      - [A Non-Programmer's Introduction to Git](https://blog.scottlowe.org/2015/01/14/non-programmer-git-intro/). (For (a great deal) more detail, see chapters 1--2 of Eric Sink's book/site [*Version Control by Example*](https://ericsink.com/vcbe/index.html))
+    assessment: ''
+
+  - weekNum: 3
+    date: "8 Mar"
+    lecture: "Editors, scripts, and control structures"
+    workshop: 'Version control; pipelines and redirection'
+    reading: |
+      Shotts, chaps 12 ("A Gentle Introduction to vi"), 24 ("Writing shell scripts") and 27 ("Branching with if")
+    assessment: '[Quiz](https://cits4407.github.io/assessment#quiz) due'
+
+  - weekNum: 4
+    date: "15 Mar"
+    lecture: |
+      Regular expressions, text, control structures cont'd
+    workshop: "Editors, scripts, and control structures"
+    reading: |
+      Shotts, chaps 19 ("Regular expressions") to 21 ("Formatting output"),
+      and 29 ("looping with do/until")
+    assessment: ''
+
+  - weekNum: 5
+    date: "22 Mar"
+    lecture: |
+      Shell functions and script design
+    workshop: |
+      Regular expressions, text, control structures cont'd
+    reading: |
+      Shotts, chaps 26 ("Top-Down Design") and 32 ("Positional parameters")
+    assessment: ''
+
+  - weekNum: 6
+    date: "29 Mar"
+    lecture: |
+      Analysing and securing data
+    workshop: |
+      *No labs this week due to Good Friday holiday*
+    reading: |
+      Shotts, chap 34 ("Strings and Numbers"); other readings to be advised
+    assessment: ''
+
+
+# study break
+  - weekNum: null
+    date: "5 Apr"
+    lecture: "*no classes -- study break*"
+    workshop: ''
+    reading: ''
+    assessment: ''
+
+
+  - weekNum: 7
+    date: "12 Apr"
+    lecture: |
+      Writing in Markdown
+    workshop: |
+      Shell functions and script design
+    reading: |
+      [The Markdown Guide -- Getting Started](https://www.markdownguide.org/getting-started/)
+    assessment: "[Assignment 1](https://cits4407.github.io/assessment#asst1) due"
+
+  - weekNum: 8
+    date: "19 April"
+    lecture: |
+      Accessing remote systems
+    workshop: |
+      Analysing and securing data
+    reading: |
+      Shotts, chap 16 ("Networking")
+    assessment: ''
+
+  - weekNum: 9
+    date: "26 April"
+    lecture: "Build automation"
+    workshop: |
+      Writing in Markdown
+    reading: |
+      [Afraid of Makefiles? Don't be!](https://endler.dev/2017/makefiles/); other readings to be advised
+    assessment: ''
+
+  - weekNum: 10
+    date: "3 May"
+    lecture: |
+      Open source and the web (lecture by David Glance)
+    workshop: |
+      Build automation
+    reading: |
+      *To be advised*
+    assessment: ''
+
+  - weekNum: 11
+    date: "10 May"
+    lecture: |
+      PowerShell (lecture by David Glance)
+    workshop: '*To be advised*'
+    reading: |
+      *To be advised*
+    assessment: ''
+
+  - weekNum: 12
+    date: "17 May"
+    lecture: "Reflection & revision"
+    workshop: '*To be advised*'
+    reading: |
+      *The Art of Unix Programming*, [chap 5 ("The Importance of Being Textual")](http://www.catb.org/esr/writings/taoup/html/ch05s01.html)
+    assessment: "[Assignment 2](https://cits4407.github.io/assessment#asst2) due"
+
+# vim: smartindent tw=72 :

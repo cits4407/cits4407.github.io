@@ -16,17 +16,17 @@ exclude:
     - CNAME
     - .gitignore
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-redirect-from
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-redirect-from
 
 source: "./docs"
 
 # site settings
 title: "CITS4407 Open Source Tools and Scripting"
-description: "CITS4407 Open Source Tools and Scripting unit @uwa"
-#url: "https://cits4407.github.io/"
-repository: "cits4407/cits4407.github.io"
+description: "CITS4407 Open Source Tools and Scripting  unit @uwa"
+#url: "https://arranstewart.github.io/cits4407.github.io"
+repository: "arranstewart/cits4407.github.io"
 
 # other site config
 permalink: /:title
@@ -35,7 +35,6 @@ markdown: kramdown
 #kramdown:
 #  math_engine: mathjax
 #  syntax_highlighter: rouge
-highlight: pygments
 
 ## content structure
 include:
@@ -47,12 +46,9 @@ collections:
      output: true
      permalink: /:path/
 
-#plugins:
-#  - jekyll-include-cache
-#  - jekyll-feed
-#  - jekyll-sitemap
-#  - jekyll-redirect-from
+plugins:
+  - jekyll-relative-links
 
-## used in /includes/header.html for html-settings
-language: "en"
+
+
 

@@ -33,5 +33,8 @@ The text is available
 [amazon-tlcl]: https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523
 [abebooks-tlcl]: https://www.abebooks.com/servlet/SearchResults?an=shotts&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=20&kn=The%20Linux%20Command%20Line:%20A%20Complete%20Introduction&recentlyadded=all&sortby=17&sts=t&tn=Linux%20Command%20Line
 
+## Lectures
 
+- Week 1   
+  Lecture 1 ([pdf]({{ "/lectures/lect01.pdf" | relative_url }}))
 

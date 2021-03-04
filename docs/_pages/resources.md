@@ -40,7 +40,24 @@ The text is available
 
 ## Workshops
 
-If attending a lab online, see the [Help4407][help] forum for Zoom links.
+If attending a workshop/lab online, details of how
+to join the relevant Microsoft Teams meeting are:
+
+- **Thursdays 4pm**:  
+  [Click here](https://teams.microsoft.com/l/meetup-join/19%3A82011daf90bb49479600db9d12cc85f9%40thread.tacv2/1614828125834?context=%7B%22Tid%22%3A%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2C%22Oid%22%3A%22e72c5de6-8733-4bc9-95bc-08b3eb1354a2%22%7D)   
+  Or call in (audio only): +61 8 6118 1761, conference ID 643 532 138#    
+- **Fridays 8am**:  
+  [Click here](https://teams.microsoft.com/l/meetup-join/19%3a511ef97f5d6141deb86bd7adee6ca8df%40thread.tacv2/1614828887052?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e72c5de6-8733-4bc9-95bc-08b3eb1354a2%22%7d)  
+  Or call in (audio only): +61 8 6118 1761, conference ID 682 901 670#  
+- **Fridays 10am**:  
+  [Click here](https://teams.microsoft.com/l/meetup-join/19%3ab2cb88442f614fec97f85ab5ca06aac0%40thread.tacv2/1614829375645?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e72c5de6-8733-4bc9-95bc-08b3eb1354a2%22%7d)  
+  Or call in (audio only): +61 8 6118 1761, conference ID 643 425 338#  
+- **Fridays 2pm**:  
+  [Click here](https://teams.microsoft.com/l/meetup-join/19%3af5e2e958b92145d0966a6ed9ed1bb235%40thread.tacv2/1614829666270?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e72c5de6-8733-4bc9-95bc-08b3eb1354a2%22%7d)   
+  Or call in (audio only): +61 8 6118 1761, conference ID 427 066 808#   
+{: class="spaced-list" :}
+
+Lab worksheets are provided below:
 
 - Week 2     
   Accessing Linux -- read this first ([pdf]({{ "/workshops/accessing-linux.pdf" | relative_url }}))  

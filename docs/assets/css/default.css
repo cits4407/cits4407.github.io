@@ -176,6 +176,10 @@ a:hover  {
   color: #053cc9;
 }
 
+.spaced-list li {
+  padding-bottom: 2ex;
+}
+
 .expanded {
   position: absolute;
   left:     0;

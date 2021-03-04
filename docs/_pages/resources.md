@@ -37,6 +37,8 @@ The text is available
 
 - Week 1   
   Lecture 1 ([pdf]({{ "/lectures/lect01.pdf" | relative_url }}))
+- Week 2   
+  Lecture 2 ([pdf]({{ "/lectures/lect02.pdf" | relative_url }}))
 
 ## Workshops
 

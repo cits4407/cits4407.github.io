@@ -38,3 +38,13 @@ The text is available
 - Week 1   
   Lecture 1 ([pdf]({{ "/lectures/lect01.pdf" | relative_url }}))
 
+## Workshops
+
+If attending a lab online, see the [Help4407][help] forum for Zoom links.
+
+- Week 2     
+  Accessing Linux -- read this first ([pdf]({{ "/workshops/accessing-linux.pdf" | relative_url }}))  
+  Workshop sheet ([pdf]({{ "/workshops/workshop-wk02.pdf" | relative_url }}))  
+
+[help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}
+

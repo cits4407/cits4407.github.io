@@ -33,7 +33,7 @@ weeks:
     workshop: 'Version control; pipelines and redirection'
     reading: |
       Shotts, chaps 12 ("A Gentle Introduction to vi"), 24 ("Writing shell scripts") and 27 ("Branching with if")
-    assessment: '[Quiz](https://cits4407.github.io/assessment#quiz) due'
+    assessment: '[Quiz](https://cits4407.github.io/assessment#quiz) closes 5 pm Friday 12th'
 
   - weekNum: 4
     date: "15 Mar"

@@ -21,8 +21,43 @@ See below for [tips on using cssubmit](#cssubmit-tips).
 
 ### Quiz ({{ site.data.globals.q1marks }}%) {#quiz}
 
-There will be a quiz, run on LMS, in {{ site.data.globals.q1date }}
-(further details to be advised).
+There will be an online quiz in {{ site.data.globals.q1date }}.
+
+Details are as follows:
+
+- The quiz will be accessible by logging into UWA's
+  [**LMS**][lms]{: target="_blank" class="hi-pri" :} (Learning Management System),
+  accessing the CITS2003/CITS4407 content,
+  and selecting "Week 3 quiz". (Be aware that, for reasons LMS admins
+  seem unable to explain, CITS4407 content is listed under
+  the LMS as CITS2003 content.)
+- The quiz will be available on the LMS from **9am Tuesday 9th April**{:
+  class="hi-pri" :} until **5pm Friday 12th April**{: class="hi-pri" :}.   
+  But ensure you leave at least 1-2 hours available in which to complete
+  the quiz. If you wait until after 3pm Friday 12th to start the quiz,
+  and don't complete it, you will be awarded 0 marks.   
+  The quiz will need to be completed in one sitting, and students are
+  allowed one attempt at it.  
+- The questions will be either multiple choice or short answer.   
+  The quiz is open-book; you can make use of any book, website or
+  software you like.  
+  Questions may be drawn from any content contained in lectures, lecture
+  slides, lab/workshop exercises or assigned readings up until the end
+  of week 2 (i.e. the week commencing Monday 8 March), or may require
+  you to make reasonable inferences from that material or to investigate
+  questions arising from that material.   
+- Ensure you have a good Internet connection when sitting the quiz --
+  you should sit it either on a UWA lab computer, or at home,
+  but not using WiFi or a mobile device, as these could drop out
+  part-way through.   
+  If you use a  WiFi or mobile connection and it fails, you won't be
+  given extra time to complete the quiz.  
+  If for some reason you can't access the quiz on the LMS, email me
+  immediately from your University email account with a screenshot or
+  photo showing the problem.
+
+
+[lms]: http://www.lms.uwa.edu.au/
 
 ### Assignment 1 {#asst-1}
 

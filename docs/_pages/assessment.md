@@ -31,10 +31,10 @@ Details are as follows:
   and selecting "Week 3 quiz". (Be aware that, for reasons LMS admins
   seem unable to explain, CITS4407 content is listed under
   the LMS as CITS2003 content.)
-- The quiz will be available on the LMS from **9am Tuesday 9th April**{:
-  class="hi-pri" :} until **5pm Friday 12th April**{: class="hi-pri" :}.   
+- The quiz will be available on the LMS from **9am Tuesday 9th March**{:
+  class="hi-pri" :} until **5pm Friday 12th March**{: class="hi-pri" :}.   
   But ensure you leave at least 1-2 hours available in which to complete
-  the quiz. If you wait until after 3pm Friday 12th to start the quiz,
+  the quiz. If you wait until after 3pm Friday 12th March to start the quiz,
   and don't complete it, you will be awarded 0 marks.   
   The quiz will need to be completed in one sitting, and students are
   allowed one attempt at it.  

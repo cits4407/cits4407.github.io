@@ -82,6 +82,12 @@ page.
   If there is room available for you, you are welcome to attend other
   lab sessions as well.
 
+Currently, there are labs on Thursdays and Fridays, all in the
+CSSE building. You can get full details of times and venues by
+visiting UWA's **2021 Timetable site**{: class="hi-pri" :} at
+**<https://timetable.applications.uwa.edu.au/>** -- enter "CITS4407" in the
+box labelled "Unit search", and then click "Show timetable".
+
 Note that materials presented during class sessions
 **<span>*do not*</span> define the whole unit**{: class="hi-pri" :}.
 A six-point unit is deemed to be equivalent to one quarter of a

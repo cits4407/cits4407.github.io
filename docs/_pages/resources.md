@@ -33,7 +33,22 @@ The text is available
 [amazon-tlcl]: https://www.amazon.com/Linux-Command-Line-2nd-Introduction/dp/1593279523
 [abebooks-tlcl]: https://www.abebooks.com/servlet/SearchResults?an=shotts&bi=0&bx=off&cm_sp=SearchF-_-Advtab1-_-Results&ds=20&kn=The%20Linux%20Command%20Line:%20A%20Complete%20Introduction&recentlyadded=all&sortby=17&sts=t&tn=Linux%20Command%20Line
 
-## Lectures
+## Streamed lectures
+
+If attending a lecture online, details of how
+to join the relevant Microsoft Teams meeting are:
+
+- **Thursdays 3pm**:  
+  [Click here](https://teams.microsoft.com/l/meetup-join/19%3a33ebc7adfa414f1eb62c64979b1c9a70%40thread.tacv2/1614922418066?context=%7b%22Tid%22%3a%2205894af0-cb28-46d8-8716-74cdb46e2226%22%2c%22Oid%22%3a%22e72c5de6-8733-4bc9-95bc-08b3eb1354a2%22%7d)   
+  Or call in (audio only): +61 8 6118 1761, conference ID 677 381 88#
+
+If you have any difficulty attending the streamed lecture,
+you can still access recordings of the lectures via the
+university's [LMS][lms]{: target="_blank" :} (Learning Management System).
+
+[lms]: http://www.lms.uwa.edu.au/
+
+## Lecture slides
 
 - Week 1   
   Lecture 1 ([pdf]({{ "/lectures/lect01.pdf" | relative_url }}))

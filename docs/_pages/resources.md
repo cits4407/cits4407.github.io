@@ -54,6 +54,8 @@ university's [LMS][lms]{: target="_blank" :} (Learning Management System).
   Lecture 1 ([pdf]({{ "/lectures/lect01.pdf" | relative_url }}))
 - Week 2   
   Lecture 2 ([pdf]({{ "/lectures/lect02.pdf" | relative_url }}))
+- Week 3   
+  Lecture 3 ([pdf]({{ "/lectures/lect03.pdf" | relative_url }}))
 
 ## Workshops
 

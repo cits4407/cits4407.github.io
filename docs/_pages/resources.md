@@ -81,6 +81,8 @@ Lab worksheets are provided below:
 - Week 2     
   Accessing Linux -- read this first ([pdf]({{ "/workshops/accessing-linux.pdf" | relative_url }}))  
   Workshop sheet ([pdf]({{ "/workshops/workshop-wk02.pdf" | relative_url }}))  
+- Week 3     
+  Version control ([pdf]({{ "/workshops/workshop02.pdf" | relative_url }}))  
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}
 

@@ -55,12 +55,12 @@ consistent interfaces to support software integration.
 
 #### Unit Coordinator
 
-[**{{ site.data.coordinator.name }}**][coordinator-dir]{: target="_blank" :}  
+[**{{ site.data.coordinator.name }}**][coordinator-dir]{: target="_blank" :}
 
 | **Office** |{{ site.data.coordinator.room }}
 | **Email** | {{ site.data.coordinator.email | unescape }}
-| **Availability** | I am at UWA (physically or virtually) on Tuesdays, Thursdays and Fridays. 
-| **Consultation** | {{ site.data.coordinator.consultation | unescape }} 
+| **Availability** | I am at UWA (physically or virtually) on Tuesdays, Thursdays and Fridays.
+| **Consultation** | {{ site.data.coordinator.consultation | unescape }}
 {: class="inline-table"}
 
 [coordinator-dir]: {{ site.data.coordinator.directory }}
@@ -125,6 +125,22 @@ semester proceeds, your marks will be updated and recorded in
 #### Who'll be helping in labs/workshops {#facilitators}
 
 | ![Alvaro]({{"/assets/images/alvaro.jpg"| relative_url }}){: style="box-shadow: 4px 4px 2px #888888; width: 166px; height: 140px;" :}<center><span style="font-size: 0.9em;">Alvaro Monsalve</span></center> | <span style="display: inline-block; width: 2em;"></span> | ![Alvaro]({{"/assets/images/daniel.jpg"| relative_url }}){: style="box-shadow: 4px 4px 2px #888888; width: 131px; height: 140px;" :}<center><span style="font-size: 0.9em;">Daniel Smith</span></center>
+
+## Feedback survey
+
+We want to ensure everyone enrolled in the unit is able to access
+lectures, lab/workshops, and an Ubuntu 20.04 environment on which to
+complete exercises and assignments. We also want to find out what you're
+finding useful (or not) about the unit.
+
+So there is a survey for CITS2003/CITS4407 students available on the MS
+Teams page for the unit -- you can also reach it by clicking
+[**here**][survey-link]{: target="_blank" class="hi-pri" :}. If you can
+assist us by completing the survey before the end of **week 4**{:
+class="hi-pri" :} (i.e., 5 pm Friday, 19 March) that would be greatly
+appreciated.
+
+[survey-link]: https://teams.microsoft.com/l/entity/81fef3a6-72aa-4648-a763-de824aeafb7d/_djb2_msteams_prefix_3727138489?context=%7B%22subEntityId%22%3Anull%2C%22channelId%22%3A%2219%3A97e0faad42234003b421dab1fe62125f%40thread.tacv2%22%7D&groupId=cabb4ad4-d1ad-4957-bcbc-89b315ed9eaf&tenantId=05894af0-cb28-46d8-8716-74cdb46e2226
 
 ## Policies
 

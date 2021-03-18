@@ -83,7 +83,7 @@ weeks:
       Shell functions and script design
     reading: |
       [The Markdown Guide -- Getting Started](https://www.markdownguide.org/getting-started/)
-    assessment: "[Assignment 1](https://cits4407.github.io/assessment#asst1) due"
+    assessment: "[Assignment 1](https://cits4407.github.io/assessment#asst1) due 5pm Friday 16 Apr"
 
   - weekNum: 8
     date: "19 April"
@@ -129,6 +129,6 @@ weeks:
     workshop: '*To be advised*'
     reading: |
       *The Art of Unix Programming*, [chap 5 ("The Importance of Being Textual")](http://www.catb.org/esr/writings/taoup/html/ch05s01.html)
-    assessment: "[Assignment 2](https://cits4407.github.io/assessment#asst2) due"
+    assessment: "[Assignment 2](https://cits4407.github.io/assessment#asst2) due 5pm Friday 21 May"
 
 # vim: smartindent tw=72 :

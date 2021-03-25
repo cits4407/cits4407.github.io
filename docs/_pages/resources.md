@@ -87,6 +87,8 @@ Lab worksheets are provided below:
   Version control ([pdf]({{ "/workshops/workshop02.pdf" | relative_url }}))  
 - Week 4     
   Editors, scripts, and control structures ([pdf]({{ "/workshops/workshop03.pdf" | relative_url }}))  
+- Week 5     
+  Text processing ([pdf]({{ "/workshops/workshop04.pdf" | relative_url }}))  
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}
 

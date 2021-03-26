@@ -89,6 +89,7 @@ Lab worksheets are provided below:
   Version control ([pdf]({{ "/workshops/workshop02.pdf" | relative_url }}))  
 - Week 4     
   Editors, scripts, and control structures ([pdf]({{ "/workshops/workshop03.pdf" | relative_url }}))  
+  Sample worksheet solutions ([pdf]({{ "/workshops/workshop03-solutions.pdf" | relative_url }}))
 - Week 5     
   Text processing ([pdf]({{ "/workshops/workshop04.pdf" | relative_url }}))  
 

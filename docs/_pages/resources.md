@@ -94,6 +94,8 @@ Lab worksheets are provided below:
   Sample worksheet solutions ([pdf]({{ "/workshops/workshop03-solutions.pdf" | relative_url }}))
 - Week 5     
   Text processing ([pdf]({{ "/workshops/workshop04.pdf" | relative_url }}))  
+  Sample worksheet solutions ([pdf]({{ "/workshops/workshop04-solutions.pdf" | relative_url }}))
+
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}
 

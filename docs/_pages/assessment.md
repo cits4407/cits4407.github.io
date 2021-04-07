@@ -61,10 +61,14 @@ Details are as follows:
 
 ### Assignment 1 {#asst-1}
 
-An assignment worth {{ site.data.globals.a1marks }}%
-of the unit's marks will be due in {{ site.data.globals.a1date }},
-at 5pm on Friday 16 April. Further details of the assignment
-will be published here closer to the date.
+Assignment 1, worth {{ site.data.globals.a1marks }}%
+of the unit's marks, has been released and is due at 11:59 pm
+on Sunday 25th April.
+
+The assignment spec is available
+[**here**]({{ "/workshops/assignment1.pdf" | relative_url }}){: class="hi-pri" :} (PDF),
+and starting code for the assignment is available at this
+Git repository: <https://github.com/cits4407/assignment1>.
 
 
 ### Assignment 2 {#asst-2}

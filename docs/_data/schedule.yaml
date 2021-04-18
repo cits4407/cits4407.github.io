@@ -83,7 +83,7 @@ weeks:
       Shell functions and script design
     reading: |
       [The Markdown Guide -- Getting Started](https://www.markdownguide.org/getting-started/)
-    assessment: "[Assignment 1](https://cits4407.github.io/assessment#asst1) due 5pm Friday 16 Apr"
+    assessment: ""
 
   - weekNum: 8
     date: "19 April"
@@ -93,7 +93,7 @@ weeks:
       Analysing and securing data
     reading: |
       Shotts, chap 16 ("Networking")
-    assessment: ''
+    assessment: "[Assignment 1](https://cits4407.github.io/assessment#asst1) due 11:59pm Sun 25 April"
 
   - weekNum: 9
     date: "26 April"

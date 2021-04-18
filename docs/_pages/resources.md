@@ -62,6 +62,8 @@ university's [LMS][lms]{: target="_blank" :} (Learning Management System).
   Lecture 5 ([pdf]({{ "/lectures/lect05.pdf" | relative_url }}))
 - Week 6   
   Lecture 6 ([pdf]({{ "/lectures/lect06.pdf" | relative_url }}))
+- Week 7   
+  Lecture 7 ([pdf]({{ "/lectures/lect07.pdf" | relative_url }}))
 
 ## Workshops
 
@@ -95,6 +97,8 @@ Lab worksheets are provided below:
 - Week 5     
   Text processing ([pdf]({{ "/workshops/workshop04.pdf" | relative_url }}))  
   Sample worksheet solutions ([pdf]({{ "/workshops/workshop04-solutions.pdf" | relative_url }}))
+- Week 7     
+  Assignment 1 work ([pdf]({{ "/workshops/workshop05.pdf" | relative_url }}))  
 
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}

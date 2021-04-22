@@ -15,9 +15,7 @@ ul, ol, dl, li p {
 </style>
 
 {{ site.data.globals.assessment | unescape }}
-
 {{ site.data.globals.submission | unescape }}
-See below for [tips on using cssubmit](#cssubmit-tips).
 
 ### Quiz ({{ site.data.globals.q1marks }}%) {#quiz}
 
@@ -70,6 +68,11 @@ The assignment spec is available
 and starting code for the assignment is available at this
 Git repository: <https://github.com/cits4407/assignment1>.
 
+Submission is via the CITS4407 Git marking server -- see
+[here](https://github.com/cits4407/assignment1#submission)
+for the procedure, and
+see below for tips on using the backup submission
+procedure, [cssubmit](#cssubmit-tips).
 
 ### Assignment 2 {#asst-2}
 

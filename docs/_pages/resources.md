@@ -99,6 +99,8 @@ Lab worksheets are provided below:
   Sample worksheet solutions ([pdf]({{ "/workshops/workshop04-solutions.pdf" | relative_url }}))
 - Week 7     
   Assignment 1 work ([pdf]({{ "/workshops/workshop05.pdf" | relative_url }}))  
+- Week 8     
+  Assignment 1 work ([pdf]({{ "/workshops/workshop06.pdf" | relative_url }}))  
 
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}

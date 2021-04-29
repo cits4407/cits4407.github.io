@@ -103,6 +103,8 @@ Lab worksheets are provided below:
   Assignment 1 work ([pdf]({{ "/workshops/workshop05.pdf" | relative_url }}))  
 - Week 8     
   Assignment 1 work ([pdf]({{ "/workshops/workshop06.pdf" | relative_url }}))  
+- Week 9     
+  Software packages and Markdown ([pdf]({{ "/workshops/workshop07.pdf" | relative_url }}))  
 
 
 [help]: https://secure.csse.uwa.edu.au/run/help{{ site.data.globals.citscode }}

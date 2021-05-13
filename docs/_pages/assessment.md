@@ -78,8 +78,11 @@ procedure, [cssubmit](#cssubmit-tips).
 
 An assignment worth {{ site.data.globals.a2marks }}%
 of the unit's marks will be due in {{ site.data.globals.a2date }},
-at 5pm on Friday 21 May.
-Further details of the assignment will be published here closer to the date.
+at 23:59pm on Sunday 23 May.
+
+The assignment is in a private repository -- to view it,
+you need to "accept" the following invitation link to
+GitHub classrooms: <https://classroom.github.com/a/JCoB7Quc>.
 
 
 ### Exam ({{ site.data.globals.exammarks }}%) {#exam}

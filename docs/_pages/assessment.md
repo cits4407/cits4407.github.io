@@ -87,8 +87,48 @@ GitHub classrooms: <https://classroom.github.com/a/JCoB7Quc>.
 
 ### Exam ({{ site.data.globals.exammarks }}%) {#exam}
 
-There will be a 2-hour exam in the June examination period –
-further details will be published here closer to the date.
+There will be a 2-hour exam in the June examination period.
+
+A **past CITS4407 exam from 2019**{: class="hi-pri" :} is available which may be useful for
+revision purposes. To access it:
+
+- Google "onesearch UWA" and click on the first link
+- You're now at the website for Onesearch, UWA's web interface to library search resources
+- Click "Sign into Onesearch" (at the top right of the screen), and log in using your Pheme credentials
+- Type "CITS4407 2019" into the search bar
+- Click on the result
+	 
+(Alternatively - if you just google "UWA past exam papers", it takes you
+to a page which gives the same information as I have above.) Note that
+the exam is copyright; you are granted a license to use it for personal
+study, but may not distribute, re-publish or upload it elsewhere.
+ 
+The 2019 exam is the only previous CITS4407 exam set by me. Exams from
+other years are a less good guide to what you can expect in this year's
+exam.
+
+**Other details**{: class="hi-pri" :} about this year's exam:
+
+- It will have 4 questions with a total value of 60 marks
+- The time allowed for completion is 2 hours
+- You are permitted to bring one A4 page of notes into the exam; the
+  notes must be hand written, not photocopied or printed, and may be
+  written on both sides of one A4 page. The page can not be folded or
+  have any attachments.
+
+When **writing Bash code**{: class="hi-pri" :} in the exam:
+
+- If you can’t recall the exact command-line arguments or flags needed
+  to produce a particular effect, you may instead add comments stating
+  what you're trying to achieve, and what you *can* recall about the
+  arguments or flags.
+- If you like, you can structure your answer with headings, and some
+  discussion of each block of code before you write it out.
+- Although we allow a fair bit of latitude when it comes to getting all
+  the arguments and flags for a command correct, we *do* expect you to
+  know how Bash control flow structures (`if` statements and loops)
+  work, how to construct pipelines and perform redirection, and
+  what different commands do.
 
 ### Tips for using cssubmit {#cssubmit-tips}
 

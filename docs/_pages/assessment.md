@@ -74,6 +74,18 @@ for the procedure, and
 see below for tips on using the backup submission
 procedure, [cssubmit](#cssubmit-tips).
 
+**UPDATE**{: class="hi-pri" :}: the assignment has been marked,
+and your mark should be available in [**csmarks**][csmarks]{: class="hi-pri" :}
+together with a PDF report providing a breakdown of your mark and
+feedback from markers.
+Sample solutions are available
+[**here**][asst1-sample-solutions]{: class="hi-pri" :} (.zip file). If
+you have any queries regarding your mark, please email the unit
+coordinator.
+
+[csmarks]: https://secure.csse.uwa.edu.au/run/csmarks
+[asst1-sample-solutions]: {{ "workshops/assignment1-sample-solutions.zip" | relative_url }}
+
 ### Assignment 2 {#asst-2}
 
 An assignment worth {{ site.data.globals.a2marks }}%

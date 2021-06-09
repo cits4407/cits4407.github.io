@@ -18,5 +18,5 @@ serve:
 	docker -D run --rm -it --net=host  \
 		-v $$PWD:/opt/work \
 		--workdir /opt/work \
-		$(NAME):$(TAG) bundle exec jekyll serve --config ./docs/_config.yml -s ./docs/
+		$(NAME):$(TAG) sh -c 'bundle install && bundle exec jekyll serve --config ./docs/_config.yml -s ./docs/'
 

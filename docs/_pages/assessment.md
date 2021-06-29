@@ -96,6 +96,15 @@ The assignment is in a private repository -- to view it,
 you need to "accept" the following invitation link to
 GitHub classrooms: <https://classroom.github.com/a/JCoB7Quc>.
 
+**UPDATE**{: class="hi-pri" :}: the assignment has been marked,
+and your mark should be available in [**csmarks**][csmarks]{: class="hi-pri" :}
+together with a PDF report providing a breakdown of your mark and
+feedback from markers.
+Sample solutions are available
+[**here**][asst2-sample-solutions]{: class="hi-pri" :} (.zip file).
+
+[asst2-sample-solutions]: {{ "workshops/assignment2-sample-solutions.zip" | relative_url }}
+
 
 ### Exam ({{ site.data.globals.exammarks }}%) {#exam}
 

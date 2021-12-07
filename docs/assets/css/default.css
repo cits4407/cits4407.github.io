@@ -118,7 +118,7 @@ h2 {
 /* theme
 ---------*/
 
-/* solid bars: #44508c
+/* solid bars: #2c4045
  * bar links & hrules: cceeee
  * links: #333f8c  */
 
@@ -269,7 +269,7 @@ p.code {
     padding: 0.5em 0em;
     text-align: center;
     background-clip: content-box;
-    text-shadow: 2px 2px 11px blue;
+    text-shadow: 2px 2px 11px #06935d;
   }
 
   /* theme
@@ -281,7 +281,7 @@ p.code {
   *[role="navigation"], .bar {
     font-size:120%;
     font-family: 'ff-meta-serif-sc-web-pro';
-    background: #44508c;
+    background: #2c4045;
   }
 
   *[role="navigation"] a
@@ -314,7 +314,7 @@ p.code {
     flex-direction: column;
   }
   nav[role="navigation"].mobile-only a {
-    background: #44508c;
+    background: #2c4045;
     width: 150%;
     color: white;
     height: 48px;
@@ -336,7 +336,7 @@ p.code {
   }
 
   .toggle-bar {
-    background: #44508c;
+    background: #2c4045;
     width: 200%;
     min-height: 48px;
     height: 48px;
@@ -348,7 +348,7 @@ p.code {
   }
  .toggle-bar button
  {
-    background: #44508c;
+    background: #2c4045;
     color: white;
     border: none;
     height: 48px;

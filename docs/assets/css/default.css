@@ -16,12 +16,37 @@ html, body {
   height: 100%
 }
 
+/* wide */
+@media only screen and (min-width: 500px) {
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  .non-header {
+    flex-grow: 1;
+  }
+}
+/* on small-width screens */
+@media (max-width: 499px) {
+  pre {
+    overflow: scroll;
+  }
+
+  .non-header p {
+    overflow-x: scroll;
+  }
+  /* Inline code */
+  :not(pre) code {
+    word-break: break-all !important;
+  }
+}
+
 /* layout */
 
 /* we have: nav, main, footer
  */
 main {
-    flex: 1 0 auto;
+  flex: 1 0 auto;
 }
 
 .content {
@@ -184,6 +209,7 @@ a:hover  {
   position: absolute;
   left:     0;
   right:    0;
+  overflow-x: scroll;
 }
 
 
@@ -242,7 +268,7 @@ p.code {
 /* footer */
 .text-muted {
   color: #666666;
-  font-size: 75%;
+  font-size: 90%;
 }
 
 
@@ -337,7 +363,7 @@ p.code {
 
   .toggle-bar {
     background: #2c4045;
-    width: 200%;
+    width: 100%;
     min-height: 48px;
     height: 48px;
     display: flex;
